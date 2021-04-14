@@ -14,7 +14,7 @@ class MiNav extends HTMLElement {
       <a href="index2.html">
         <span
           class="material-icons">
-        Language
+        language
         </span>
         IoT
       </a>`;
