@@ -13,15 +13,15 @@ html {
   --colCheckOn: #0277BD;
   --colCheckFondo: #BDBDBD;*/
    --colContenido: black;
-  --colContenidoFondo: #A2E9EA;
+  --colContenidoFondo: #7ED3F4;
   --colPrimario: black;
-  --colPrimarioFondo: #D485E5;
+  --colPrimarioFondo: #3494F2;
   --colActive: #4646462c;
   --colCampoSinFoco: gray;
   --colCampoFoco: #01579B;
   --colError: #b00020;
-  --colCampoFondo: #F5F5F5;
-  --colCampoFondoHover: #1C83F8;
+  --colCampoFondo: #C5FADF;
+  --colCampoFondoHover: #7DE3F7;
   --colCampoFondoFocus: #E0E0E0;
   --colCheckOn: #0277BD;
   --colCheckFondo: #BDBDBD;
